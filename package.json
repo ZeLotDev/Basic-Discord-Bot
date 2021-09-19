@@ -1,0 +1,19 @@
+{
+  "name": "cf-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@discord-player/downloader": "^2.0.3",
+    "@discordjs/opus": "^0.5.3",
+    "discord-player": "^4.1.2",
+    "discord.js": "^12.5.3",
+    "ffmpeg-static": "^4.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
